@@ -1,0 +1,1 @@
+add_executable(com_test com_test.cpp)
